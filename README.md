@@ -1,3 +1,3 @@
 # DES-Encryptor
 A fast, memory efficient, DES encryptor
-Made this as a hobby project
+Made this as a hobby project, may or may not clean up and make into a library depending on if people actually use this...
