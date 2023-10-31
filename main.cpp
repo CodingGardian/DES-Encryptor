@@ -340,7 +340,7 @@ namespace DEAcrypt {
 
         std::string hexoriginaltext;
         std::string hexcyphertext;
-
+private:
         // !! LONG FUNCTION INCOMING !!
         block_32 fc_func(block_32 block, key_48 roundkey) {
             // expansion permutation
@@ -428,7 +428,7 @@ namespace DEAcrypt {
             return returnBlock;
         }
         // its safe now :)
-        
+public:     
         std::string encrypt(std::string str) {
             block_32 l, r;
             block_32 r2, l2;
