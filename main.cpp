@@ -3,7 +3,6 @@
 #include <array>
 #include <chrono>
 
-// Hello my name is matthew and I have N O  H A N D S
 // thanks mainly to: http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
 // small thanks to Cryptography and network security by Behrouz A. Fourouzan
 
